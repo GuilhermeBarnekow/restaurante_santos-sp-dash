@@ -1,0 +1,7 @@
+requests
+pandas
+dash
+plotly
+fuzzywuzzy
+python-Levenshtein
+python-dotenv
